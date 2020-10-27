@@ -1,4 +1,3 @@
-# thesis_work
 An evaluation of independent component analyses with an application to resting-state Electrocorticography(ECoG)
 
 I n this thesis work, different number of Independent Components Analysis(ICA)
